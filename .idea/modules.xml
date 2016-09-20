@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LBSBaidu.iml" filepath="$PROJECT_DIR$/LBSBaidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lbsbaidumap/lbsbaidumap.iml" filepath="$PROJECT_DIR$/lbsbaidumap/lbsbaidumap.iml" />
+    </modules>
+  </component>
+</project>
